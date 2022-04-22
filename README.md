@@ -1,7 +1,7 @@
 # Web-Form-Filler
 Filling web form and dealing with exceptions
 
-This script automates the manual job of filling forms in a web browser taking its data from any data source 
+This script automates the manual job of filling forms in a web browser taking its data from any data source using **chocolatey** and **selenium web driver**
 
 ## Dependencies
 Install **chocolatey** following the installation instructions from [here](https://chocolatey.org/install#individual/)
